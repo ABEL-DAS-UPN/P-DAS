@@ -1,0 +1,49 @@
+.login-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #202020;
+    background-color: #202020;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+  }
+
+   body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #000000;
+   }
+
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    font-size: 15px;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="password"] {
+    width: 95%;
+    display: block;
+  }
+  
+  .form-group button {
+    padding: 10px 50px;
+    background-color: #4f8a47;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form-group link {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 20px;
+  }
+  

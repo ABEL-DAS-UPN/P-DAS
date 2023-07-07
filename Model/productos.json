@@ -1,0 +1,128 @@
+[
+    {
+        "URL_IMAGEN": "./img/computadoras/pcgamer1.jpg",
+        "ID_PRODUCTO": 1,
+        "NOMBRE": "pcgamer1",
+        "TITULO": "PC GAMER Corei5/8GB/SSD512/GTX1650",
+        "PRECIO": 1500.99,
+        "STOCK": 20,
+        "CATEGORIA": "Computadoras"
+    },
+    {
+        "URL_IMAGEN": "./img/computadoras/pcordinario.jpg",
+        "ID_PRODUCTO": 2,
+        "NOMBRE": "pcordinario",
+        "TITULO": "All in One Huawei AMD R5 4600G 23.8\"/8GB/256GB",
+        "PRECIO": 767.99,
+        "STOCK": 20,
+        "CATEGORIA": "Computadoras"
+    },
+    {
+        "URL_IMAGEN": "./img/computadoras/miniintel.jpg",
+        "ID_PRODUCTO": 3,
+        "NOMBRE": "miniintel",
+        "TITULO": "INTEL HUB|GAMING i78705G/2x M.2/2SL",
+        "PRECIO": 855.99,
+        "STOCK": 20,
+        "CATEGORIA": "Computadoras"
+    },
+    {
+        "URL_IMAGEN": "./img/computadoras/allinone.jpg",
+        "ID_PRODUCTO": 4,
+        "NOMBRE": "allinone",
+        "TITULO": "LG-24V50N-G i5-10210U 24\"/i5/1TB/8GB",
+        "PRECIO": 995.99,
+        "STOCK": 20,
+        "CATEGORIA": "Computadoras"
+    },
+    {
+        "URL_IMAGEN": "./img/computadoras/minintel.jpg",
+        "ID_PRODUCTO": 5,
+        "NOMBRE": "minintel",
+        "TITULO": "MINI INTEL NUC 9 PRO KIT XEON E-2286M",
+        "PRECIO": 1786.99,
+        "STOCK": 20,
+        "CATEGORIA": "Computadoras"
+    },
+    {
+        "URL_IMAGEN": "./img/accesorios/usbinalambric.jpg",
+        "ID_PRODUCTO": 6,
+        "NOMBRE": "usbinalambric",
+        "TITULO": "USB INALAMBRICO D-LINK 480 MBPS",
+        "PRECIO": 18.99,
+        "STOCK": 20,
+        "CATEGORIA": "Accesorios"
+    },
+    {
+        "URL_IMAGEN": "./img/accesorios/tplinkinterface.jpg",
+        "ID_PRODUCTO": 7,
+        "NOMBRE": "tplinkinterface",
+        "TITULO": "ADAPTADOR PCI EXPRESS TP-LINK 150 MBPS",
+        "PRECIO": 11.99,
+        "STOCK": 20,
+        "CATEGORIA": "Accesorios"
+    },
+    {
+        "URL_IMAGEN": "./img/accesorios/jackblue.jpg",
+        "ID_PRODUCTO": 8,
+        "NOMBRE": "jackblue",
+        "TITULO": "ADAPTADOR BLUETOOTH 5.0 AUX ",
+        "PRECIO": 18.99,
+        "STOCK": 20,
+        "CATEGORIA": "Accesorios"
+    },
+    {
+        "URL_IMAGEN": "./img/hardware/ram320016gb.jpg",
+        "ID_PRODUCTO": 9,
+        "NOMBRE": "ram320016gb",
+        "TITULO": "MEMORIA RAM DDR5 16GB |8GBX2| 3200mhz",
+        "PRECIO": 100.99,
+        "STOCK": 15,
+        "CATEGORIA": "Hardware"
+    },
+    {
+        "URL_IMAGEN": "./img/hardware/ram320016x8.jpg",
+        "ID_PRODUCTO": 10,
+        "NOMBRE": "ram320016x8",
+        "TITULO": "MEMORIA RAM DDR4 16GB |8GBX2| 3200mhz",
+        "PRECIO": 58.99,
+        "STOCK": 20,
+        "CATEGORIA": "Hardware"
+    },
+    {
+        "URL_IMAGEN": "./img/hardware/pantalla25.jpg",
+        "ID_PRODUCTO": 11,
+        "NOMBRE": "pantalla25",
+        "TITULO": "MONITOR GAMER 25\" 240HZ 8K |2 DP|4 HDMI",
+        "PRECIO": 425.99,
+        "STOCK": 20,
+        "CATEGORIA": "Hardware"
+    },
+    {
+        "URL_IMAGEN": "./img/hardware/kingston240.jpg",
+        "ID_PRODUCTO": 12,
+        "NOMBRE": "kingston240",
+        "TITULO": "SSD 240GB BLISTER KINGSTON",
+        "PRECIO": 21.99,
+        "STOCK": 20,
+        "CATEGORIA": "Hardware"
+    },
+    {
+        "URL_IMAGEN": "./img/hardware/patriot1tb.jpg",
+        "ID_PRODUCTO": 13,
+        "NOMBRE": "patriot1tb",
+        "TITULO": "M.2 PCIE SOLIDO PATRIOT 1TB NVME",
+        "PRECIO": 48.99,
+        "STOCK": 20,
+        "CATEGORIA": "Hardware"
+    },
+    {
+        "URL_IMAGEN": "./img/hardware/seagate2tb.jpg",
+        "ID_PRODUCTO": 14,
+        "NOMBRE": "seagate2tb",
+        "TITULO": "HDD 2TB 256MB 7200RPM,SATA 3 3.5\"",
+        "PRECIO": 61.99,
+        "STOCK": 20,
+        "CATEGORIA": "Hardware"
+    }
+]
